@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/slnx.sqlite
+/.vs/Sports/FileContentIndex
+/.vs/Sports/v17
+/.vs/VSWorkspaceState.json
+/src/SportsAPIs/bin
+/src/SportsAPIs/obj
+/.vs
