@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33815.320
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SportsAPIs", "src\SportsAPIs\SportsAPIs.csproj", "{D3A8B575-DA8C-46A3-8B76-EBB551188AD8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SportsAPIs", "src\SportsAPIs\SportsAPIs.csproj", "{D3A8B575-DA8C-46A3-8B76-EBB551188AD8}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "SportsDb", "src\SportsDb\SportsDb.sqlproj", "{4E3D737E-425A-47A4-BE29-EDEFBFE66DAF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,12 @@ Global
 		{D3A8B575-DA8C-46A3-8B76-EBB551188AD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D3A8B575-DA8C-46A3-8B76-EBB551188AD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D3A8B575-DA8C-46A3-8B76-EBB551188AD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E3D737E-425A-47A4-BE29-EDEFBFE66DAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E3D737E-425A-47A4-BE29-EDEFBFE66DAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E3D737E-425A-47A4-BE29-EDEFBFE66DAF}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{4E3D737E-425A-47A4-BE29-EDEFBFE66DAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E3D737E-425A-47A4-BE29-EDEFBFE66DAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E3D737E-425A-47A4-BE29-EDEFBFE66DAF}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
