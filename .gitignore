@@ -9,3 +9,6 @@
 /src/SportsAPIs/bin
 /src/SportsAPIs/obj
 /.vs
+/src/SportsAPIs/SportsAPIs.csproj.user
+/src/SportsDb/obj/Debug
+/src/SportsDb/SportsDb.sqlproj.user
